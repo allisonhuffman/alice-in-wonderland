@@ -2,3 +2,16 @@
 html {
     font-family:'Atkinson Hyperlegible', sans-serif;
 }
+
+.song {
+    text-align: center;
+    font-style: italic; 
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
